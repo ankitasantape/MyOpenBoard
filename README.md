@@ -8,7 +8,7 @@
 </p>
 <p align="center">
     <a href="https://github.com/ankitasantape/MyOpenBoard.git">
-        <img style="border-radius:50%" src="C:\Users\Admin\MyOpenBoard\Public\Icons\sshot1.png" alt="Logo" width="400" height="300"> 
+        <img style="border-radius:50%" src="https://github.com/ankitasantape/MyOpenBoard/blob/main/Public/Icons/sshot1.png" alt="Logo" width="400" height="300"> 
 </p>
  
     
@@ -23,7 +23,7 @@
 - The **Undo** button helps to reverse the action of an earlier action and **Redo** button restores any actions that were previously undone using an undo.
 
 ## 📌 Screenshots
- <img style="border-radius:50%" src="C:\Users\Admin\MyOpenBoard\Public\Icons\sshot2.png" alt="Logo" width="400" height="300">
+ <img style="border-radius:50%" src="https://github.com/ankitasantape/MyOpenBoard/blob/main/Public/Icons/sshot2.png" alt="Logo" width="400" height="300">
 
     
 ## 📷 Live Demo 
